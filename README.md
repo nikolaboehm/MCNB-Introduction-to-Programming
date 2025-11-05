@@ -1,1 +1,1 @@
-This is a repository for the course "Introduction to Programming, which is part of the ![MCNB program](https://www.ewi-psy.fu-berlin.de/en/study-courses/cognitive_neuroscience/index.html) at ![Freie Universität Berlin](https://www.fu-berlin.de/en/index.html).
+This is a repository for the course "Introduction to Programming", which is part of the [MCNB program](https://www.ewi-psy.fu-berlin.de/en/study-courses/cognitive_neuroscience/index.html) at [Freie Universität Berlin](https://www.fu-berlin.de/en/index.html).
